@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Starrail Char List</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="icon_back">Navigate Back</string>
+    <string name="icon_search">Search</string>
+    <string name="search_Character">Search Characters</string>
+    <string name="profile_name">Hilmy Sukma Nurmakarim</string>
+    <string name="profile_email">HilmySukma12@gmail.com</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="error">Ups.. Something went wrong!</string>
+    <string name="home_page">home_page</string>
+    <string name="about_page">about_page</string>
+    <string name="icon_favorite">love</string>
+    <string name="icon_not_favorite">unlove</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="favorite_page">favorite characters</string>
+</resources>
